@@ -7,6 +7,7 @@
         delay: 10
     });
 
+    /*Deslizar para a Seção*/
     var $doc = $('html,body');
     $('.scroll-page').click(function(){
         $doc.animate({
